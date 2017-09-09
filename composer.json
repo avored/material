@@ -1,0 +1,17 @@
+{
+  "name": "mage2/material",
+  "description": "Mage2 Material Theme",
+  "type": "mage2-theme",
+  "keywords": ["framework", "theme", "default-theme" ,"cart","laravel","e commerce","laravel5","shop",
+                "shopping-cart","e-commerce","shopping cart","e commerce"],
+  "license": "GPL-3.0",
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "authors": [
+    {
+      "name": "Purvesh  ",
+      "email": "ind.purvesh@gmail.com"
+    }
+  ]
+}
